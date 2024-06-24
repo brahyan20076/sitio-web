@@ -1,0 +1,53 @@
+.primera{
+    align-items: baseline; 
+    margin: 0px;
+}
+.icono{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.fecha{
+    margin: 0;
+    padding: 0;
+}
+.segunda{
+    
+}
+.zapato{
+    margin-top: -170px;
+
+}
+.linea{
+    margin-top: -140px;
+    margin-left: 10px;
+}
+.zapatico{
+    display: flex;
+    align-items: baseline;
+}
+.zapatico2{
+    padding: 0px 0px 16px 0px;
+}
+span{
+    color: #0D6EFD;
+   margin: 0px 0px 0px 230px;
+}
+button{
+    background-color: #0D6EFD;
+    border: none;
+    padding: 15px ;
+    color: white;
+   
+    width: 180px;
+    border-radius: 10px;
+   
+    
+
+}
+.jopito{
+   
+    display: flex;
+   gap: 24%;
+    
+}
